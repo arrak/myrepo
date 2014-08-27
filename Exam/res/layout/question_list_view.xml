@@ -1,0 +1,11 @@
+<ListView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@android:id/list"
+    android:orientation="vertical"
+    tools:context="com.arrak.exam.controller.Question_List_Controller" >
+
+    
+
+</ListView>

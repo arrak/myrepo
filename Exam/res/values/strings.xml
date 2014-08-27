@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Exam</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_question_add">เพิ่มคำถาม</string>
+    <string name="question_create_field_caption">คำถาม</string>
+    <string name="question_btnsave_caption">บันทึก</string>
+
+</resources>
